@@ -1,6 +1,7 @@
  HEAD
  HEAD
  HEAD
+ HEAD
 Funcionalidad: Agendamiento de citas medicas
 
 Funcionalidad: Registro de pacientes
@@ -11,3 +12,6 @@ Funcionalidad: Diseño de interfaz de usuario
 
 Funcionalidad: Autenticacion de usuarios
  modulo-seguridad
+
+Funcionalidad: Generacion de reportes
+ modulo-reportes
